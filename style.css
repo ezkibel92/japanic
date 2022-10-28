@@ -2,6 +2,15 @@ body{
     margin: 0;
 }
 
+h2 {
+
+    text-align: center;
+    color: #EA6267;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 2rem;
+    margin-bottom: 50px;
+}
+
 
 
 .menu {
@@ -61,7 +70,7 @@ body{
 }
 
 .header {
-    height: 90vh;
+    height: 99vh;
     color: #ffffff;
     margin-bottom: 10vh;
     background-image: url(img/fondo.gif);
@@ -73,7 +82,7 @@ body{
 .header h1 {
     font-size: 8rem;
     color: #EA6267;
-    padding-top: 25vh;
+    padding-top: 30vh;
     margin-top: 0;
     margin-bottom: 0;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
