@@ -5,9 +5,9 @@ window.addEventListener("scroll", function(){
     header.classList.toggle("cabecera2", window.scrollY>0);
 
     if (window.scrollY>0){
-        document.getElementById("logo").src = "img/logo.png"
+        document.getElementById("logo").src = "img/logo3.png"
     }else{
-        document.getElementById("logo").src = "img/logo.png" 
+        document.getElementById("logo").src = "img/logo4.png" 
     }
 
 
