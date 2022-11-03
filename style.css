@@ -269,3 +269,35 @@ h2 {
     display: inline-block;
     margin: 0 0 0 5%
 }
+
+.nosotros-principal{
+
+  width: 70%;
+  height: 200vh;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 auto;
+
+}
+
+.nosotros-img{
+
+  width: 40%;
+  height: 45%;
+  margin: 2% auto;
+
+}
+
+.nosotros-img img{
+
+  width: 30vw;
+  margin: 5%;
+}
+
+.nosotros-p {
+
+  width: 40%;
+  height: 25%;
+  margin-top: 10%;
+
+}
