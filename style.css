@@ -301,3 +301,17 @@ h2 {
   margin-top: 10%;
 
 }
+
+.mapouter{
+  margin: 0 auto;
+  position:relative;
+  text-align:right;
+  height:580px;
+  width:971px;
+}
+.gmap_canvas {
+  overflow:hidden;
+  background:none!important;
+  height:580px;
+  width:971px;}
+  
