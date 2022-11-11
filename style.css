@@ -310,6 +310,8 @@ h2 {
   height: 25%;
   margin-top: 10%;
   margin-left: 10%;
+  font-size: 1.5em;
+  font-family: Arial, Helvetica, sans-serif;
 
 }
 
@@ -328,4 +330,29 @@ h2 {
   
   .colortd {
     color:#e51b23;
+  }
+
+  .regiones-p{
+    height: 20vh;
+    width: 40vw;
+    margin: 0 auto;
+    font-size: 1.2em;
+  }
+
+  .ciudades-tabla{
+    margin: 0 auto;
+    width: 40vw;
+  
+  }
+
+  .imagen-ciudades{
+
+    width: 65vw;
+    margin: 0 auto;
+  }
+
+  .imagen-ciudades img{
+    
+    width: 32vw;
+    margin: 0 auto;
   }
